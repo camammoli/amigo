@@ -1,0 +1,18 @@
+# Block access to database files
+<FilesMatch "\.db$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Block direct access to db.php
+<FilesMatch "^db\.php$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Block directory listing
+Options -Indexes
+
+# Rewrite for clean URLs
+RewriteEngine On
+RewriteBase /amigo/
