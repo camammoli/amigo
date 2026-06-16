@@ -145,6 +145,10 @@ $colors = PARTICIPANT_COLORS;
 <meta property="og:type"        content="website">
 <meta name="twitter:card"       content="summary">
 
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebApplication","name":"Amigo Invisible","url":"https://mammoli.ar/amigo/","description":"Organizá el amigo invisible del grupo online. Sin registro, resultados por link o email.","applicationCategory":"LifestyleApplication","operatingSystem":"Web","inLanguage":"es","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"author":{"@type":"Person","name":"Carlos Mammoli","url":"https://mammoli.ar/"}}
+</script>
+
 <style>
 /* ── Reset & base ───────────────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
