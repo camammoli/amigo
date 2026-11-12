@@ -1,5 +1,7 @@
 # Amigo Invisible
 
+[![Archivado en Software Heritage](https://archive.softwareheritage.org/badge/origin/https://github.com/camammoli/amigo/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/camammoli/amigo)
+
 **[→ Probalo en mammoli.ar/amigo](https://mammoli.ar/amigo/)**
 
 Organizá el sorteo de amigo invisible en segundos, sin registro y con un tap por persona para mandar el resultado por WhatsApp.
